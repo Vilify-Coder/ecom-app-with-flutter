@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "987517867127",
+    "firebase_url": "https://timer-4f8ae.firebaseio.com",
+    "project_id": "timer-4f8ae",
+    "storage_bucket": "timer-4f8ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:987517867127:android:b8d719b2d8801f63196272",
+        "android_client_info": {
+          "package_name": "com.example.timer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "987517867127-7dit32o9jih888etora4blr7odcm1ejt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMN3DXCMgJ6-HV_lwTKScIcbTZym2LC9w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "987517867127-7dit32o9jih888etora4blr7odcm1ejt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
