@@ -1,4 +1,4 @@
-# timer
+# Ecom App
 
 A new Flutter project.
 
